@@ -40,5 +40,5 @@
 ###
 
 <div align="center">
-  <img height="600" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.videomeme.in%2Fwp-content%2Fuploads%2F2022%2F11%2FScreenshot_20221123-194309_Files-by-Google.jpg&f=1&nofb=1&ipt=7e3b4c3c0c64989cf95012e4569a378f165743d650ea7f515270a1d1c95c200d&ipo=images"  />
+  <img height="200" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.videomeme.in%2Fwp-content%2Fuploads%2F2022%2F11%2FScreenshot_20221123-194309_Files-by-Google.jpg&f=1&nofb=1&ipt=7e3b4c3c0c64989cf95012e4569a378f165743d650ea7f515270a1d1c95c200d&ipo=images"  />
 </div>

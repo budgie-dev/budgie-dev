@@ -1,4 +1,5 @@
 <p align="left">I hope Open AI's Server rooms burn down :3
+  <br>
   - 🔭 I’m working as a game dev in a 3x3m² studio (shack).
   <br>
   - 📚 I'm currently learning Godot, CSS.

@@ -10,9 +10,24 @@
 
 ###
 
-<p align="left">I hope Open AI's Server rooms burn down :3<br><br>- 🔭 I’m working as a game dev in a 3x3m² studio (shack).<br>- 📚 I'm currently learning Godot, CSS.<br>- ⚡ In my free time I obsess over myrmecology.<br>-👾 Fun fact: I have an entire 2 meter shelf in my room, dedicated to displaying my ant colonies.<br><br>-🐜 My colonies:<br>Messor Barbarus<br>Camponotus Nicobarensis<br>-🐜 Colonies that i desperately need in my life and will cease to exist without:<br>Crematogaster Scuttelaris</p>
+<p align="left">I hope Open AI's Server rooms burn down :3<br><br>- 🔭 I’m working as a game dev in a 3x3m² studio (shack).<br>- 📚 I'm currently learning Godot, CSS.<br>- ⚡ In my free time I obsess over myrmecology.<br>-👾 Fun fact: I have an entire 2 meter shelf in my room, dedicated to displaying my ant colonies.<br><br>-🐜 My colonies:<br>
+<ul>
+<li>Messor Barbarus</li>
 
-###
+<br>
+  
+<li>Camponotus Nicobarensis</li>
+</ul>
+<br>
+
+-🐜 Colonies that i desperately need in my life and will cease to exist without:<br></p>
+<ul>
+
+<li>Crematogaster scutellaris</li>
+
+</ul>
+
+</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 

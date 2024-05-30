@@ -34,9 +34,10 @@
   <img width="12"  />
 </div>
 
-<h1 align="center">I use arch btw</h1>
-<img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-archlinux-3628631-3029856.png" height="70"  />
-
+<div align="center">
+<h1>I use arch btw</h1>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-archlinux-3628631-3029856.png" height="70"  />
+</div>
 
 
 ###

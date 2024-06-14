@@ -41,9 +41,9 @@
 
 <div align="center">
 
-  <h1>I use Arch btw :3</h1>
+  <h1>use Arch btw :3</h1>
   
-<a src="https://www.youtube.com/watch?v=YAgJ9XugGBo&pp=ygUNc3Bpbm5pbmcgZmlzaA%3D%3D" target="_blank">
+<a href="https://www.youtube.com/watch?v=YAgJ9XugGBo&pp=ygUNc3Bpbm5pbmcgZmlzaA%3D%3D" target="_blank">
   <img height="200" width="500" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.videomeme.in%2Fwp-content%2Fuploads%2F2022%2F11%2FScreenshot_20221123-194309_Files-by-Google.jpg&f=1&nofb=1&ipt=7e3b4c3c0c64989cf95012e4569a378f165743d650ea7f515270a1d1c95c200d&ipo=images"  />
 </a>
 </div>

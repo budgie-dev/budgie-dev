@@ -6,4 +6,4 @@ Any use of this project's code by GitHub Copilot, past or present, is done witho
 
 Join us; you can [give up GitHub](https://GiveUpGitHub.org) too!
 
-<img src="https://sfconservancy.org/static/img/GiveUpGitHub.png" width="200"/>
+<img src="https://sfconservancy.org/static/img/GiveUpGitHub.png" width="600"/>
